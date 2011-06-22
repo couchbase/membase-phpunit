@@ -1,0 +1,2 @@
+To run the scripts:
+php phpunit membase.php <master_server> <slave_server_1> <slave_server_2>
